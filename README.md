@@ -1,5 +1,5 @@
 # Task List App
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white_svg](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png))]
+[![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png)]
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
