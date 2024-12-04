@@ -1,5 +1,5 @@
 # Task List App
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white_svg)]
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
