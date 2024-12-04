@@ -106,7 +106,11 @@ def main():
         analyticsSectionFxn()
 
     else:
-        sommodhon = exclaimation()
+        #some issue in this
+        #sommodhon = exclaimation()
+
+        #so
+        sommodhon = "How it's going?"
         st.markdown(f"""
         ## Hey Dude :green[{sommodhon}]
            + I am Kaushik
