@@ -45,46 +45,46 @@ def runHomePage():
     if schoice == 'Read':
         st.markdown("## Read By :green[Task]")
         with st.expander("See"):
-            st.image("images\ReadTask-01.png")
+            st.image("images/ReadTask-01.png")
         st.markdown("## Read By :blue[User]")
         with st.expander("See"):
-            st.image("images\ReadTask-02.png")
+            st.image("images/ReadTask-02.png")
             
     elif schoice == 'Add Task':
         st.markdown("## Fill :grey[All Options]")
         with st.expander("See"):
-            st.image("images\AddTask-01.png")
-            st.image("images\AddTask-02.png")
-            st.image("images\AddTask-03.png")
+            st.image("images/AddTask-01.png")
+            st.image("images/AddTask-02.png")
+            st.image("images/AddTask-03.png")
             
         st.markdown("## Click :blue[Add] button")
         with st.expander("See"):
-            st.image("images\AddTask-04.png")
-            st.image("images\AddTask-05.png")
+            st.image("images/AddTask-04.png")
+            st.image("images/AddTask-05.png")
     elif schoice == 'Edit Task':
 
         st.markdown("## Step 1: Edit :red[Required Options]")
         with st.expander("See"):
-            st.image("images\EditTask-01.png")
-            st.image("images\EditTask-02.png")
+            st.image("images/EditTask-01.png")
+            st.image("images/EditTask-02.png")
         st.markdown("## Step 2: Click :grey[Update Task] Button")
         with st.expander("See"):
-            st.image("images\EditTask-03.png")
+            st.image("images/EditTask-03.png")
 
     elif schoice == 'Delete Task':
         st.markdown("## Step 1: :green[Choose Task] to delete")
         with st.expander("See"):
-            st.image("images\DeleteTask-01.png")
+            st.image("images/DeleteTask-01.png")
         st.markdown("## Step 2: Confirm :blue[Checkbox] and :red[Delete]")
         with st.expander("See"):
-            st.image("images\DeleteTask-02.png")
+            st.image("images/DeleteTask-02.png")
     elif schoice == 'Analytics':
         st.markdown("## :grey[User Analysis]")
         with st.expander("See"):
-            st.image("images\Analytics-01.png")
+            st.image("images/Analytics-01.png")
         st.markdown("## :red[Progress] Wise Analysis")
         with st.expander("See"):
-            st.image("images\Analytics-02.png")
+            st.image("images/Analytics-02.png")
 
 ###########################################
 #main_fxn
