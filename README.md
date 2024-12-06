@@ -1,5 +1,5 @@
 # Task List App
-<a href="https://kashiekay-apptasklistapp-vnauntoopa4wjdqi8yi2ws.streamlit.app/" target="blank">
+<a href="https://kashiekay-apptasklistapp-vnauntoopa4wjdqi8yi2ws.streamlit.app/" target="_blank">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" alt="Streamlit App">
 </a>
 
