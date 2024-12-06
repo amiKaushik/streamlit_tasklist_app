@@ -1,5 +1,5 @@
 # Task List App
-[![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png)](https://kashiekay-apptasklistapp-vnauntoopa4wjdqi8yi2ws.streamlit.app/){target="_blank"}
+[![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png)](https://kashiekay-apptasklistapp-vnauntoopa4wjdqi8yi2ws.streamlit.app/)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -62,6 +62,6 @@ This Task List App allows users to manage their tasks effectively. Users can add
 - Improved user interface and experience.
 
 ## Contact
-For any questions,improvement or feedback, please reach out to:
-- **GitHub**: https://github.com/amiKaushik
-```
+- For any questions, feedback, or suggestions, feel free to contact:
+
+- GitHub: https://github.com/amiKaushik
