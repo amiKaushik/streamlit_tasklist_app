@@ -43,7 +43,7 @@ This Task List App allows users to manage their tasks effectively. Users can add
 
 3. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run main_app.py
    ```
 ## Usage
 1. Navigate to the app in your web browser (usually at `http://localhost:8501`).
