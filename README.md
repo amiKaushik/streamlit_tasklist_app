@@ -32,8 +32,8 @@ This Task List App allows users to manage their tasks effectively. Users can add
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone https://github.com/amiKaushik/streamlit_tasklist_app.git
+   cd streamlit_tasklist_app
    ```
 
 2. Install the required packages:
@@ -41,14 +41,9 @@ This Task List App allows users to manage their tasks effectively. Users can add
    pip install -r requirements.txt
    ```
 
-3. Create the database and tables:
-   ```python
-   # Run your database creation script if necessary
-   ```
-
-4. Run the app:
+3. Run the app:
    ```bash
-   streamlit run [your-app-file].py
+   streamlit run app.py
    ```
 ## Usage
 1. Navigate to the app in your web browser (usually at `http://localhost:8501`).
